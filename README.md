@@ -9,6 +9,3 @@ Uses the proportion of points that lies inside a unit circle
 
 # infinite_series
 Uses the series (1/n^2) to approximate the value of pi.
-
-# Value of Pi with Visuals
-Demonstrates the random points that lie within a circle using matlab's plotting library.
