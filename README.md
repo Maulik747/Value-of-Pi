@@ -16,9 +16,3 @@
 
 
 
-```
-scripts
-├── build.js :heavy_check_mark:  
-├── start.js
-└── test.js
-```
