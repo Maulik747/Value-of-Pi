@@ -12,3 +12,13 @@
 
 # taylor_expansion
 :heavy_check_mark:  Uses the taylor expansion of sin inverse x, evaluated at 0.5(Larger Error)
+
+
+
+
+```
+scripts
+├── build.js :heavy_check_mark:  
+├── start.js
+└── test.js
+```
